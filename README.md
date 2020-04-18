@@ -37,7 +37,7 @@ Manual installation:
 3. Run it using **Right Click -> Open**. You need to do this because [I don't pay Apple $99 every year](https://developer.apple.com/programs/).
 4. If you like the app, leave a [star](https://github.com/simonmeusel/MuteSpotifyAds/stargazers)!
 
-This application is tested from macOS High Sierra (`10.13.5`) to and macOS Catalina (`10.15.1`) with Spotify `1.1.19.480.g7d17e3ce`.
+This application is tested from macOS High Sierra (`10.13.5`) to macOS Catalina (`10.15.4`) with Spotify `1.1.30.658.gf13cde74`.
 
 To uninstall the application, you can simply trash `MuteSpotifyAds.app`.
 
