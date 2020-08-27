@@ -24,7 +24,7 @@ This application is not in any way affiliated with Spotify.
 
 Instead of running Spotify directly, start this application. It will automatically start Spotify. Furthermore it will mute any ads it sees. When you close Spotify this program will also terminate, and thus it no longer has any effect on your battery or CPU.
 
-As of version `1.5.0` you can also enable a option to automatically skip ads, by restarting Spoitify. Therefore, click the `☀︎` in the status bar of your mac (at the top of your screen), and then click `◎ Restart to skip ads`.
+As of version `1.5.0` you can also enable a option to automatically skip ads, by restarting Spotify. Therefore, click the `☀︎` in the status bar of your mac (at the top of your screen), and then click `◎ Restart to skip ads`.
 
 ## Installation
 
